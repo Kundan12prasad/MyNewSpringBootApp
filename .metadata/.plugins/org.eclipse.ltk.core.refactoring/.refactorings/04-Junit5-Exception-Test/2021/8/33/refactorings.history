@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;04-Junit5-Exception-Test&apos;&#x0D;&#x0A;- Original project: &apos;04-Junit5-Exception-Test&apos;&#x0D;&#x0A;- Original element: &apos;04-Junit5-Exception-Test/src/main/java/com.practice._Junit5_Exception_Test&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.practice._Junit5_Exception_Test" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1628421556732" subPackages="false" version="1.0"/>
+</session>

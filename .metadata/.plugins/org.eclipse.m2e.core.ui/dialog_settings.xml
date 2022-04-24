@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\keshav\Documents\mynewapp\FetchingHibernate\src\main\java\hibernate.cfg.xml"/>
+			<item value="C:\Users\keshav\Documents\mynewapp\SpringWebAppSecurity"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.practice._Junit5_Exception_Test"/>
+			<item value="com.practice._Junit5_CSV_Parameterized_Test_App"/>
+			<item value="com.practice._Junit5_Parameterized_Test_App"/>
+			<item value="com.practice._Junit5_Calc_App"/>
+			<item value="com.practice._junit4_App"/>
+			<item value="com.practice.HibernateGetLoad"/>
+			<item value="com.practice.HibernateHQL"/>
+			<item value="com.practice.CachingHibernare"/>
+			<item value="com.practice.FetchingHibernate"/>
+			<item value="com.practice.HibernateFirstWithMaven"/>
+			<item value="com.practice.bankservice"/>
+		</list>
+		<list key="groupId">
+			<item value="com.practice"/>
+		</list>
+		<list key="artifactId">
+			<item value="04-Junit5-Exception-Test"/>
+			<item value="03-Junit5-CSV-Parameterized-Test-App"/>
+			<item value="02-Junit5-Parameterized-Test-App"/>
+			<item value="01-Junit5-Calc-App"/>
+			<item value="01-junit4-App"/>
+			<item value="HibernateGetLoad"/>
+			<item value="HibernateHQL"/>
+			<item value="CachingHibernare"/>
+			<item value="FetchingHibernate"/>
+			<item value="HibernateFirstWithMaven"/>
+			<item value="bank-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="665"/>
+		<item key="x" value="443"/>
+		<item key="y" value="0"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="G:\16JRTP\Major_Project\16-IES-Bathes"/>
+			<item value="G:\16JRTP\Major_Project\15-ED-RULES-API"/>
+			<item value="C:\Users\KESHAV\Downloads\06-SB-REST-JUnit-App"/>
+			<item value="C:\Users\KESHAV\Downloads\05-JUnit-Power-Mockito-App"/>
+			<item value="G:\mynewapp"/>
+			<item value="G:\mynewapp\HibernateFirstWithMaven"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,50 @@
+server:
+  port: 5050
+spring:
+  datasource:
+    driverClassName: org.h2.Driver
+    password: 123
+    platform: h2
+    url: jdbc:h2:~/mydb
+    username: sa
+  h2:
+    console:
+      enabled: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true 
+  
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: kundanprasad03@gmail.com
+    password: 9231881701
+    
+    properties:
+     mail:
+      smtp:
+       starttls:
+         enable: true
+       auth: true    
+    
+app:
+  messages:
+    accountLocked: your account is locked
+    invalidCredentials: Credentials are invalid
+    regSuccess: Registration almost completed.Please check your mail to proceed.  
+    unlocksucc: Your Account Unlocked Successfully
+    unlockfail: failed to unlock account
+    regEmailSub: User Registration Successfull|| Kundan IT
+    forgotPwdEmailSub: Forgot Password|| Kundan IT
+    forgotPwdSucc: Email sent with password
+    forgotPwdFail: Please enter the correct email
+    regEmailBodyFile: UNLOCK_ACCNT_EMAIL_BODY_TEMPLATE.txt
+    forgotPwdEmailBodyFile: RECOVER_PASSWORD_EMAIL_BODY_TEMPLATE.txt
+
+
+
+
+
+

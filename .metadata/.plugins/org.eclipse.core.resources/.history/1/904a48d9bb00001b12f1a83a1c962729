@@ -1,0 +1,9 @@
+package com.practice.HibernateMapping;
+
+@Entity
+public class Student
+{
+	private int lid;
+	private String lname;
+
+}

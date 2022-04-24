@@ -1,0 +1,17 @@
+2021-10-03 18:23:04.591  INFO 4360 --- [restartedMain] c.practice.SpringBootLoggingApplication  : Starting SpringBootLoggingApplication using Java 1.8.0_20 on DESKTOP-FEPQ0C3 with PID 4360 (G:\mynewapp\SpringBoot-Logging\target\classes started by KESHAV in G:\mynewapp\SpringBoot-Logging)
+2021-10-03 18:23:04.597  INFO 4360 --- [restartedMain] c.practice.SpringBootLoggingApplication  : No active profile set, falling back to default profiles: default
+2021-10-03 18:23:04.681  INFO 4360 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 18:23:04.682  INFO 4360 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 18:23:05.882  INFO 4360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9095 (http)
+2021-10-03 18:23:05.903  INFO 4360 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-10-03 18:23:05.904  INFO 4360 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-10-03 18:23:06.016  INFO 4360 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-10-03 18:23:06.017  INFO 4360 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1334 ms
+2021-10-03 18:23:06.601  INFO 4360 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-10-03 18:23:06.895  INFO 4360 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9095 (http) with context path ''
+2021-10-03 18:23:06.910  INFO 4360 --- [restartedMain] c.practice.SpringBootLoggingApplication  : Started SpringBootLoggingApplication in 2.91 seconds (JVM running for 4.101)
+2021-10-03 18:23:16.746  INFO 4360 --- [http-nio-9095-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 18:23:16.747  INFO 4360 --- [http-nio-9095-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-10-03 18:23:16.749  INFO 4360 --- [http-nio-9095-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-10-03 18:23:16.783  INFO 4360 --- [http-nio-9095-exec-1] c.practice.controller.WelcomeController  : welcomeMsg() executed successfully 
+2021-10-03 18:28:04.179  INFO 4360 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.

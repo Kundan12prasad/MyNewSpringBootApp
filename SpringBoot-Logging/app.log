@@ -1,0 +1,24 @@
+10:13 17:26:33.755 [restartedMain] [INFO]
+[c.p.SpringBootLoggingApplication] - Starting SpringBootLoggingApplication using Java 1.8.0_20 on DESKTOP-FEPQ0C3 with PID 4304 (G:\mynewapp\SpringBoot-Logging\target\classes started by KESHAV in G:\mynewapp\SpringBoot-Logging)
+10:13 17:26:33.757 [restartedMain] [INFO]
+[c.p.SpringBootLoggingApplication] - No active profile set, falling back to default profiles: default
+10:13 17:26:33.842 [restartedMain] [INFO]
+[o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+10:13 17:26:33.843 [restartedMain] [INFO]
+[o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+10:13 17:26:40.239 [restartedMain] [INFO]
+[o.s.b.w.e.tomcat.TomcatWebServer] - Tomcat initialized with port(s): 9095 (http)
+10:13 17:26:40.721 [restartedMain] [INFO]
+[o.s.b.w.s.c.ServletWebServerApplicationContext] - Root WebApplicationContext: initialization completed in 6877 ms
+10:13 17:26:42.374 [restartedMain] [INFO]
+[o.s.b.d.a.OptionalLiveReloadServer] - LiveReload server is running on port 35729
+10:13 17:26:42.536 [restartedMain] [INFO]
+[o.s.b.w.e.tomcat.TomcatWebServer] - Tomcat started on port(s): 9095 (http) with context path ''
+10:13 17:26:42.576 [restartedMain] [INFO]
+[c.p.SpringBootLoggingApplication] - Started SpringBootLoggingApplication in 9.878 seconds (JVM running for 13.975)
+10:13 17:30:31.108 [http-nio-9095-exec-1] [INFO]
+[c.p.controller.WelcomeController] - welcomeMsg() executed successfully 
+10:13 17:36:54.260 [http-nio-9095-exec-5] [INFO]
+[c.p.controller.WelcomeController] - welcomeMsg() executed successfully 
+10:13 17:41:59.090 [RMI TCP Connection(2)-127.0.0.1] [INFO]
+[o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin] - Application shutdown requested.

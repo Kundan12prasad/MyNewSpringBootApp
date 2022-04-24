@@ -1,0 +1,22 @@
+2020-09-19 14:28:37 [restartedMain] INFO  c.p.s.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication on keshav-PC with PID 9132 (C:\Users\keshav\Documents\mynewapp\spring-boot-logging\target\classes started by keshav in C:\Users\keshav\Documents\mynewapp\spring-boot-logging)
+2020-09-19 14:28:37 [restartedMain] DEBUG c.p.s.SpringBootLoggingApplication -
+				Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-09-19 14:28:37 [restartedMain] INFO  c.p.s.SpringBootLoggingApplication -
+				No active profile set, falling back to default profiles: default
+2020-09-19 14:28:40 [restartedMain] INFO  c.p.s.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 4.694 seconds (JVM running for 6.931)
+2020-09-19 14:29:14 [http-nio-9090-exec-1] DEBUG c.p.s.SpringBootLoggingApplication -
+				Request kundan
+2020-09-19 14:29:14 [http-nio-9090-exec-1] DEBUG c.p.s.SpringBootLoggingApplication -
+				Response Hi kundan Hello World
+2020-09-19 14:31:41 [http-nio-9090-exec-4] DEBUG c.p.s.SpringBootLoggingApplication -
+				Request boor
+2020-09-19 14:31:41 [http-nio-9090-exec-4] DEBUG c.p.s.SpringBootLoggingApplication -
+				Response Hi boor Hello World
+2020-09-19 14:32:17 [http-nio-9090-exec-7] DEBUG c.p.s.SpringBootLoggingApplication -
+				Request test
+2020-09-19 14:35:05 [http-nio-9090-exec-9] DEBUG c.p.s.SpringBootLoggingApplication -
+				Request test
+2020-09-19 14:35:08 [http-nio-9090-exec-10] DEBUG c.p.s.SpringBootLoggingApplication -
+				Request test

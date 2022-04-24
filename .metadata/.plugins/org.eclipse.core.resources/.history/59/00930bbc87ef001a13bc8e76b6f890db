@@ -1,0 +1,8 @@
+package com.practice2;
+
+ public interface Printable 
+{
+public void print(String msg);
+
+
+}
